@@ -4,8 +4,6 @@ A brutalist editorial blog design concept: loud typography, raw borders and an a
 
 **Live demo:** https://yosef-tamer206.github.io/THE-UX-REVIEW/
 
-![THE-UX-REVIEW screenshot](docs/screenshot.png)
-
 ## Features
 
 - Bold hero section with oversized headline
